@@ -8,6 +8,8 @@ category_label: "Diseño gráfico"
 category_url: /diseno-grafico/
 cover: /assets/images/graphic-identity.svg
 cover_alt: "Composición abstracta de una identidad visual"
+external_url: "https://www.behance.net/gallery/123456789/nombre-del-proyecto"
+external_label: "Ver en Behance"
 featured: true
 year: 2026
 client: "Estudio Norte"
