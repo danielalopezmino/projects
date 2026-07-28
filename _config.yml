@@ -1,7 +1,7 @@
 title: "Tu nombre — Portafolio"
 description: "Portafolio multidisciplinar de UI/UX, diseño gráfico, fotografía y escritura creativa."
-url: ""
-baseurl: "" # Déjalo vacío para TU-USUARIO.github.io; usa "/NOMBRE-REPO" para un repositorio de proyecto.
+url: "https://danielalopezmino.github.io"
+baseurl: "/proyects"
 lang: "es"
 timezone: "Europe/Madrid"
 permalink: /proyectos/:title/
