@@ -6,7 +6,7 @@ date: 2023-09-15
 category: diseno-grafico
 category_label: "Diseño gráfico"
 category_url: /diseno-grafico/
-cover: /assets/images/graphic-identity.svg
+cover: /assets/images/senirop-cover.png
 cover_alt: "Identidad visual Senirop"
 external_url: "https://www.behance.net/gallery/179189685/SENIROP"
 external_label: "Ver en Behance"
