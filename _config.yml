@@ -1,0 +1,24 @@
+title: "Tu nombre — Portafolio"
+description: "Portafolio multidisciplinar de UI/UX, diseño gráfico, fotografía y escritura creativa."
+url: ""
+baseurl: "" # Déjalo vacío para TU-USUARIO.github.io; usa "/NOMBRE-REPO" para un repositorio de proyecto.
+lang: "es"
+timezone: "Europe/Madrid"
+permalink: /proyectos/:title/
+markdown: kramdown
+
+# Cambia estos datos antes de publicar.
+author:
+  name: "Tu nombre"
+  role: "Diseñadora multidisciplinar"
+  email: "hola@tudominio.com"
+  location: "Madrid, España"
+
+social:
+  linkedin: "https://www.linkedin.com/"
+  instagram: "https://www.instagram.com/"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
