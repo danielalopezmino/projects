@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Identidad para Estudio Norte"
-description: "Sistema visual flexible para una marca creativa que necesitaba verse cercana, contemporánea y reconocible."
-date: 2026-07-15
+title: "Identidad para Senirop"
+description: "Sistema visual para una marca creativa Tech que necesitaba verse cercana, contemporánea y reconocible."
+date: 2023-09-15
 category: diseno-grafico
 category_label: "Diseño gráfico"
 category_url: /diseno-grafico/
 cover: /assets/images/graphic-identity.svg
-cover_alt: "Composición abstracta de una identidad visual"
-external_url: "https://www.behance.net/gallery/123456789/nombre-del-proyecto"
+cover_alt: "Identidad visual Senirop"
+external_url: "https://www.behance.net/gallery/179189685/SENIROP"
 external_label: "Ver en Behance"
 featured: true
 year: 2026
-client: "Estudio Norte"
+client: "Senirop"
 role: "Dirección de arte y diseño"
-tools: "Illustrator, InDesign"
+tools: "Illustrator, Figma"
 ---
 
 ## Concepto
