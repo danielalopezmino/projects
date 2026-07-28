@@ -6,8 +6,8 @@ date: 2026-07-08
 category: escritura-creativa
 category_label: "Escritura creativa"
 category_url: /escritura-creativa/
-cover: /assets/images/writing-story.svg
-cover_alt: "Página de texto con un símbolo de escritura"
+cover: /assets/images/los-que-se-quedan.jpg
+cover_alt: "Los que se quedan"
 featured: true
 year: 2026
 client: "Proyecto personal"
