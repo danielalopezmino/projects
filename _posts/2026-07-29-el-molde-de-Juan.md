@@ -6,7 +6,7 @@ date: 2026-07-08
 category: escritura-creativa
 category_label: "Escritura creativa"
 category_url: /escritura-creativa/
-cover: /assets/images/los-que-se-quedan.jpg
+cover: /assets/images/el-molde-de-juan.jpg
 cover_alt: "El model de Juan"
 featured: true
 year: 2026
