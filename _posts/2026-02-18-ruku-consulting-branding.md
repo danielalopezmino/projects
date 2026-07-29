@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Ruku Consulting Branding"
-description: "Sistema visual para una marca creativa Tech que necesitaba verse cercana, contemporánea y reconocible."
+description: "Una marca tech con personalidad creativa"
 date: 2026-02-8
 category: diseno-grafico
 category_label: "Diseño gráfico"
 category_url: /diseno-grafico/
-cover: /assets/images/senirop-cover.png
+cover: /assets/images/ruku-consulting.png
 cover_alt: "Branding para Ruku consulting"
 external_url: "https://www.behance.net/gallery/244362221/Ruku-Consulting-Branding"
 external_label: "Ver en Behance"
