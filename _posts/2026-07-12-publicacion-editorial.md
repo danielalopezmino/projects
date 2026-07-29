@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Publicación editorial"
-description: "Diseño de una publicación breve que combina entrevistas, fotografía y datos en una lectura ágil."
+title: "Diseño marca"
+description: "Diseño de marca para app de arte."
 date: 2026-07-12
 category: diseno-grafico
 category_label: "Diseño gráfico"
 category_url: /diseno-grafico/
-cover: /assets/images/graphic-editorial.svg
-cover_alt: "Dos páginas conceptuales de una publicación editorial"
+cover: /assets/images/art-up-gallery.png
+cover_alt: "Art up gallery"
 featured: false
-year: 2026
+year: 2023
 client: "Proyecto personal"
-role: "Diseño editorial"
-tools: "InDesign, Photoshop"
+role: "Diseño marca"
+tools: "Ilustrator, Figma"
 ---
 
 ## Dirección editorial
