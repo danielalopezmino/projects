@@ -17,10 +17,3 @@ role: "Diseño marca"
 tools: "Ilustrator, Figma"
 ---
 
-## Dirección editorial
-
-El proyecto busca equilibrar textos extensos, citas y material visual sin perder ritmo. La retícula permite alternar páginas densas con pausas visuales y aperturas de sección más expresivas.
-
-## Criterios
-
-La tipografía, los márgenes y la secuencia de imágenes se definieron para favorecer una lectura tranquila tanto en pantalla como en impresión.
