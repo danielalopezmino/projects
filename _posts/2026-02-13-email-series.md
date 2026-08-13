@@ -8,7 +8,7 @@ category: ui-ux
 category_label: "UI/UX"
 category_url: /ui-ux/
 
-cover: /assets/images/tapinto/es_cover_0.jpg
+cover: /assets/images/es_cover_0.jpg
 cover_alt: "Vista del producto TAPinto"
 
 featured: true
@@ -43,7 +43,7 @@ Different types of emails — welcome messages, content updates, alerts, and inf
 - They didn’t help editors build a consistent relationship with their audience
 
 <figure class="project-figure">
-  <img src="{{ '/assets/images/tapinto/es_before.jpg' | relative_url }}" alt="Before">
+  <img src="{{ '/assets/images/es_before.jpg' | relative_url }}" alt="Before">
   <figcaption>Before alert News</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ Every email has a clear role inside a larger story.
 
 
 <figure class="project-figure">
-  <img src="{{ '/assets/images/tapinto/es_group1_3.jpg' | relative_url }}" alt="Email series">
+  <img src="{{ '/assets/images/es_group1_3.jpg' | relative_url }}" alt="Email series">
   <figcaption>Before alert News</figcaption>
 </figure>
 
