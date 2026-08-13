@@ -97,7 +97,7 @@ Every email has a clear role inside a larger story.
 
 
 <figure class="project-figure">
-  <img src="{{ '/assets/images/tapinto/es_group2_4.jpg' | relative_url }}" alt="Email series">
+  <img src="{{ '/assets/images/es_group2_4.jpg' | relative_url }}" alt="Email series">
   <figcaption>Before alert News</figcaption>
 </figure>
 
