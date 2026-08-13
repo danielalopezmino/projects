@@ -42,11 +42,10 @@ Different types of emails — welcome messages, content updates, alerts, and inf
 - They didn’t guide new readers through the experience
 - They didn’t help editors build a consistent relationship with their audience
 
-<div class="project-grid">
-  <figure>
-    <img src="{{ '/assets/images/tapinto/es_before.jpg' | relative_url }}" alt="Before">
-  </figure>
-</div>
+<figure class="project-figure">
+  <img src="{{ '/assets/images/tapinto/es_before.jpg' | relative_url }}" alt="Before">
+  <figcaption>Before alert News</figcaption>
+</figure>
 
 <p class="project-caption">
   Before alert News
@@ -86,21 +85,22 @@ Every email has a clear role inside a larger story.
 - Content blocks that support storytelling, not just links
 - Clear patterns for newsletters, alerts, and informational emails
 
-<div class="project-grid">
-  <figure>
-    <img src="{{ '/assets/images/es_group1_3.jpg' | relative_url }}" alt="Email series">
-  </figure>
-</div>
+
+<figure class="project-figure">
+  <img src="{{ '/assets/images/tapinto/es_group1_3.jpg' | relative_url }}" alt="Email series">
+  <figcaption>Before alert News</figcaption>
+</figure>
 
 <p class="project-caption">
   Email series
 </p>
 
-<div class="project-grid">
-  <figure>
-    <img src="{{ '/assets/images/es_group2_4.jpg' | relative_url }}" alt="Email series">
-  </figure>
-</div>
+
+<figure class="project-figure">
+  <img src="{{ '/assets/images/tapinto/es_group2_4.jpg' | relative_url }}" alt="Email series">
+  <figcaption>Before alert News</figcaption>
+</figure>
+
 
 <p class="project-caption">
   Email series
