@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bringing Clarity to Everyday CRM Work"
-description: "Rediseño de una herramienta interna para priorizar tareas, reducir ruido visual y acelerar la toma de decisiones."
+description: "Bringing Clarity to Everyday CRM Work."
 date: 2026-07-20
 category: ui-ux
 category_label: "UI/UX"
@@ -23,9 +23,9 @@ The friction was clear:
 - The tool was built for complex commercial funnels, not the lean, fast-paced reality of local news.
 - Because the tool felt "foreign" to their daily routine, it remained underutilized despite the critical need to manage ad revenue.
 
-<div class="project-grid">
+<div class="project-figure">
   <figure>
-    <img src="{{ '/assets/images/1_crm.jpg' | relative_url }}" alt="Existing CRM Context">
+    <img src="{{ '/assets/images/1_crm.jpg'| relative_url }}" alt="Existing CRM Context">
   </figure>
 </div>
 
@@ -53,10 +53,9 @@ A research survey was conducted with local town editors to understand:
 - Their level of technical confidence
 - What they needed to feel comfortable managing content on a daily basis
 
-<div class="project-grid">
+<div class="project-figure">
   <figure>
-    <img src="{{ '/assets/images/2_user_research' | relative_url }}" alt="Research survey findings with town editors
-">
+    <img src="{{ '/assets/images/2_user_research' | relative_url }}" alt="Research survey findings with town editors">
   </figure>
 </div>
 
@@ -76,7 +75,7 @@ The research confirmed that the issue was not adoption, but a structural mismatc
 ## Design Starting Point
 This context became the foundation for all design decisions that followed. The challenge was not to simplify an existing CRM, but to design a tool that matched how editors actually think and work. From this point on, the focus shifted from managing contacts in a generic system to designing a clear, safe, and scalable editorial experience.
 
-  <div class="project-grid">
+<div class="project-figure">
   <figure>
     <img src="{{ '/assets/images/3_login' | relative_url }}" alt="CRM Login">
   </figure>
@@ -94,7 +93,7 @@ Design decisions included:
 - Progressive disclosure of advanced fields
 - Consistent patterns across views
 
-    <div class="project-grid">
+<div class="project-figure">
   <figure>
     <img src="{{ '/assets/images/4_search.gif' | relative_url }}" alt="Contact managment">
   </figure>
@@ -107,10 +106,9 @@ Contact managment
 ## Activity Tracking & Transparency
 To support collaboration and accountability, the CRM included a clear and accessible activity log. Instead of hiding complexity, the goal was to organize it in a way that felt understandable and safe for non-technical users.
 
-   <div class="project-grid">
+<div class="project-figure">
   <figure>
-    <img src="{{ '/assets/images/5_Activities.gif' | relative_url }}" alt="Register Activity
-">
+    <img src="{{ '/assets/images/5_Activities.gif' | relative_url }}" alt="Register Activity">
   </figure>
 </div>
 
@@ -121,7 +119,7 @@ Register Activity
 ## Time-Based Features · Notifications & Agenda
 As the network scaled, editors needed support to manage timing, follow-ups, and reminders without relying on external tools. Notifications and agenda features were designed to integrate naturally into daily workflows, reducing cognitive load and manual effort.
 
-   <div class="project-grid">
+<div class="project-figure">
   <figure>
     <img src="{{ '/assets/images/6_Notifications-agenda.gif' | relative_url }}" alt="General Agenda">
   </figure>
@@ -133,7 +131,7 @@ General Agenda
 
 ## System Overview
 The dashboard and contacts index were designed to provide clarity at a glance, helping editors understand what required attention without feeling overwhelmed.
-<div class="project-grid">
+<div class="project-figure">
   <figure>
     <img src="{{ '/assets/images/7_dashboard.jpg' | relative_url }}" alt="Dashboard">
   </figure>
@@ -145,7 +143,7 @@ Dashboard
 
 ## Design System & Technical Alignment
 Adopted Ant Design as the foundation of the CRM’s visual system to ensure consistency and reduce friction between design and development.
-<div class="project-grid">
+<div class="project-figure">
   <figure>
     <img src="{{ '/assets/images/8_ANT Design.jpg' | relative_url }}" alt="Dashboard">
   </figure>
@@ -154,7 +152,7 @@ Adopted Ant Design as the foundation of the CRM’s visual system to ensure cons
 <p class="project-caption">
 ANT Design</p>
 
-<div class="project-grid">
+<div class="project-figure">
   <figure>
     <img src="{{ '/assets/images/10_Ant_colors.jpg' | relative_url }}" alt="Semantic colors">
   </figure>
@@ -167,6 +165,7 @@ Semantic colors</p>
 Local TAPinto editors spend much of their day outside their desks — covering community events, meeting local business owners, and building relationships that can later become sponsorships or advertising opportunities.
 The mobile CRM was designed to support the moment when the interaction actually happens. The goal was simple: make capturing a new contact fast, clear, and frictionless.
 
+<div class="project-figure">
  <figure>
     <img src="{{ '/assets/images/11_mobile_screens.jpg' | relative_url }}" alt="Mobile CRM">
   </figure>
@@ -180,6 +179,7 @@ Local TAPinto editors spend much of their day outside their desks — covering c
 Through conversations with editors and understanding their daily workflow, one insight became clear:
 Lead capture happens in the field, not in the office. When editors meet a potential sponsor, they need to register the contact quickly before the moment passes.
 
+<div class="project-figure">
  <figure>
     <img src="{{ '/assets/images/12_users_CRM.jpg' | relative_url }}" alt="Mobile CRM">
   </figure>
