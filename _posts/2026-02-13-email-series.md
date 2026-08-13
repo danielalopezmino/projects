@@ -8,7 +8,7 @@ category: ui-ux
 category_label: "UI/UX"
 category_url: /ui-ux/
 
-cover: /assets/images/tapinto/cover.jpg
+cover: /assets/images/tapinto/es_cover_0.jpg
 cover_alt: "Vista del producto TAPinto"
 
 featured: true
@@ -28,10 +28,6 @@ For many readers, email is the main way they experience TAPinto:
 - Stories that explain what TAPinto is and why it matters
 - Gentle prompts for engagement or donations
 Editors create content on the platform, but the platform is responsible for how that content reaches readers. That makes email a product surface — not just a communication channel.
-<figure class="project-figure">
-  <img src="{{ '/assets/images/es_cover_0.jpg' | relative_url }}" alt="Email series flow distribution">
-  <figcaption>Email series flow distribution.</figcaption>
-</figure>
 
 ## The Problem
 
