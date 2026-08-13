@@ -6,7 +6,7 @@ date: 2026-07-20
 category: ui-ux
 category_label: "UI/UX"
 category_url: /ui-ux/
-cover: /assets/images/ui-ux-dashboard.svg
+cover: /assets/images/0_CRM_allscreens.jpg
 cover_alt: "TAPinto CRM"
 featured: true
 year: 2026
@@ -120,6 +120,7 @@ Register Activity
 
 ## Time-Based Features · Notifications & Agenda
 As the network scaled, editors needed support to manage timing, follow-ups, and reminders without relying on external tools. Notifications and agenda features were designed to integrate naturally into daily workflows, reducing cognitive load and manual effort.
+
    <div class="project-grid">
   <figure>
     <img src="{{ '/assets/images/6_Notifications-agenda.gif' | relative_url }}" alt="General Agenda">
@@ -129,4 +130,62 @@ As the network scaled, editors needed support to manage timing, follow-ups, and 
 <p class="project-caption">
 General Agenda
 </p>
+
+## System Overview
+The dashboard and contacts index were designed to provide clarity at a glance, helping editors understand what required attention without feeling overwhelmed.
+<div class="project-grid">
+  <figure>
+    <img src="{{ '/assets/images/7_dashboard.jpg' | relative_url }}" alt="Dashboard">
+  </figure>
+</div>
+
+<p class="project-caption">
+Dashboard
+</p>
+
+## Design System & Technical Alignment
+Adopted Ant Design as the foundation of the CRM’s visual system to ensure consistency and reduce friction between design and development.
+<div class="project-grid">
+  <figure>
+    <img src="{{ '/assets/images/8_ANT Design.jpg' | relative_url }}" alt="Dashboard">
+  </figure>
+</div>
+
+<p class="project-caption">
+ANT Design</p>
+
+<div class="project-grid">
+  <figure>
+    <img src="{{ '/assets/images/10_Ant_colors.jpg' | relative_url }}" alt="Semantic colors">
+  </figure>
+</div>
+
+<p class="project-caption">
+Semantic colors</p>
+
+## Mobile CRM for Real-Time Lead Capture
+Local TAPinto editors spend much of their day outside their desks — covering community events, meeting local business owners, and building relationships that can later become sponsorships or advertising opportunities.
+The mobile CRM was designed to support the moment when the interaction actually happens. The goal was simple: make capturing a new contact fast, clear, and frictionless.
+
+ <figure>
+    <img src="{{ '/assets/images/11_mobile_screens.jpg' | relative_url }}" alt="Mobile CRM">
+  </figure>
+</div>
+
+<p class="project-caption">
+Responsive CRM</p>
+
+## Designing for Speed in the Field
+Local TAPinto editors spend much of their day outside their desks — covering community events, meeting local business owners, and building relationships that can later become sponsorships or advertising opportunities.
+Through conversations with editors and understanding their daily workflow, one insight became clear:
+Lead capture happens in the field, not in the office. When editors meet a potential sponsor, they need to register the contact quickly before the moment passes.
+
+ <figure>
+    <img src="{{ '/assets/images/12_users_CRM.jpg' | relative_url }}" alt="Mobile CRM">
+  </figure>
+</div>
+
+<p class="project-caption">
+Responsive CRM</p>
+
 
