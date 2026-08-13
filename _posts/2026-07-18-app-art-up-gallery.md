@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Un Mercado de arte en la era digital"
+title: "Una App para el mercado del arte en la era digital"
 description: "Una plataforma para que los entusiastas del arte compren, vendan e intercambien obras."
 date: 2025-07-18
 category: ui-ux
