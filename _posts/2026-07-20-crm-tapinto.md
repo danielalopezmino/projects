@@ -55,7 +55,7 @@ A research survey was conducted with local town editors to understand:
 
 <div class="project-figure">
   <figure>
-    <img src="{{ '/assets/images/2_user_research' | relative_url }}" alt="Research survey findings with town editors">
+    <img src="{{ '/assets/images/2_user_research.jpg' | relative_url }}" alt="Research survey findings with town editors">
   </figure>
 </div>
 
@@ -77,7 +77,7 @@ This context became the foundation for all design decisions that followed. The c
 
 <div class="project-figure">
   <figure>
-    <img src="{{ '/assets/images/3_login' | relative_url }}" alt="CRM Login">
+    <img src="{{ '/assets/images/3_login.jpg' | relative_url }}" alt="CRM Login">
   </figure>
 </div>
 
