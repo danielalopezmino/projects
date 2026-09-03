@@ -8,7 +8,7 @@ category_label: "UI/UX"
 category_url: /ui-ux/
 cover: /assets/images/artup_galleryart.jpg
 cover_alt: "Composición conceptual de una aplicación móvil"
-featured: false
+featured: true
 year: 2026
 client: "Cliente confidencial"
 role: "Product designer"
