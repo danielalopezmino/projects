@@ -2,7 +2,7 @@
 layout: post
 title: "Una App para el mercado del arte en la era digital"
 description: "Una plataforma para que los entusiastas del arte compren, vendan e intercambien obras."
-date: 2025-07-18
+date: 2026-07-18
 category: ui-ux
 category_label: "UI/UX"
 category_url: /ui-ux/
