@@ -9,9 +9,9 @@ markdown: kramdown
 
 # Cambia estos datos antes de publicar.
 author:
-  name: "Daniela López"
-  role: "Diseñ0 Ui/ UX, Diseño Gráfico, Fotografía, Escritura creativa"
-  email: "daniela.lopez.mino@gmail.com.com"
+  name: "Daniela López Miño"
+  role: "Diseño Ui/ UX, Diseño Gráfico, Fotografía, Escritura creativa"
+  email: "daniela.lopez.mino@gmail.com"
   location: "Madrid, España"
 
 social:
