@@ -7,7 +7,7 @@ category: ui-ux
 category_label: "UI/UX"
 category_url: /ui-ux/
 cover: /assets/images/cover_secure.jpg
-cover_alt: "SafeCircle — Safety App Concept"
+cover_alt: ""
 featured: true
 year: 2026
 client: Wachiman APP
