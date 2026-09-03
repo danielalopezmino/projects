@@ -60,25 +60,20 @@ pocos pasos por pantalla, confirmación de ubicación y una estructura visual co
 
 ## Decisiones de diseño
 
-Priorizar la acción SOS
-Ubique la emergencia como acción principal de la app, con un botón prominente y de alto contraste para que el usuario pueda pedir ayuda sin navegar por múltiples pantallas.
+- Ubique la emergencia como acción principal de la app, con un botón prominente y de alto contraste para que el usuario pueda pedir ayuda sin navegar por múltiples pantallas.
 
-Evitar clasificaciones legales
-Simplifiqué la pantalla de denuncia para que el usuario describiera la situación de forma observable, sin tener que determinar si se trataba de un delito específico.
+- Simplifiqué la pantalla de denuncia para que el usuario describiera la situación de forma observable, sin tener que determinar si se trataba de un delito específico.
 
-Confirmar la ubicación antes del envío
-Incorporé una pantalla de confirmación para validar el lugar de la emergencia, ya que la ubicación es uno de los datos más importantes para una respuesta rápida.
+- Incorporé una pantalla de confirmación para validar el lugar de la emergencia, ya que la ubicación es uno de los datos más importantes para una respuesta rápida.
 
-Conectar actores clave
-Diseñé el flujo pensando en la coordinación entre usuario, contactos de emergencia, empresa de seguridad privada y Policía Nacional.
+- Diseñé el flujo pensando en la coordinación entre usuario, contactos de emergencia, empresa de seguridad privada y Policía Nacional.
 
   <figure>
     <img src="{{ '/assets/images/3_app_security.jpg' | relative_url }}" alt="App security">
   </figure>
-</div>
 
-<p class="project-caption">
-App security</p>
+
+<p class="project-caption">App security</p>
 
 ## Resultado
 El resultado fue un prototipo móvil enfocado en acelerar la solicitud de ayuda y mejorar la claridad de la información enviada durante una emergencia.
