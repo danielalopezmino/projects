@@ -319,6 +319,9 @@ p { margin: 0; }
 
   background: #ffffff;
 
+  border-radius: 18px;
+  overflow: hidden;
+
   box-sizing: border-box;
 }
 
