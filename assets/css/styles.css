@@ -402,3 +402,7 @@ p { margin: 0; }
     width: calc(100vw - 32px);
   }
 }
+
+.project-collage .collage-half {
+  grid-column: span 6;
+}
