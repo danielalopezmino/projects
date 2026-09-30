@@ -292,6 +292,11 @@ p { margin: 0; }
   *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; }
 }
 
+/* ========================================
+   PROJECT COLLAGE
+   Images always shown complete
+   ======================================== */
+
 .project-collage {
   width: min(1200px, calc(100vw - 40px));
   margin: 4rem 0;
@@ -299,10 +304,98 @@ p { margin: 0; }
   transform: translateX(-50%);
 
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
+  grid-template-columns: repeat(12, minmax(0, 1fr));
   gap: 18px;
 
-  padding: 18px;
-  background: #f6f6f4;
   box-sizing: border-box;
+}
+
+
+/* Each collage cell */
+
+.project-collage figure {
+  margin: 0;
+  padding: 20px;
+
+  background: #ffffff;
+
+  box-sizing: border-box;
+}
+
+
+/* IMPORTANT: never crop */
+
+.project-collage figure img {
+  display: block;
+
+  width: 100%;
+  height: auto;
+
+  max-width: 100%;
+
+  object-fit: initial;
+}
+
+
+/* Grid sizes */
+
+.project-collage .collage-hero {
+  grid-column: span 12;
+}
+
+.project-collage .collage-half {
+  grid-column: span 6;
+}
+
+.project-collage .collage-large {
+  grid-column: span 8;
+}
+
+.project-collage .collage-small {
+  grid-column: span 4;
+}
+
+.project-collage .collage-third {
+  grid-column: span 4;
+}
+
+
+/* Caption */
+
+.collage-caption {
+  width: min(1200px, calc(100vw - 40px));
+
+  margin: -2.8rem auto 4rem;
+
+  font-size: 0.85rem;
+  line-height: 1.5;
+  opacity: 0.6;
+}
+
+
+/* Mobile */
+
+@media (max-width: 700px) {
+
+  .project-collage {
+    width: calc(100vw - 32px);
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .project-collage .collage-hero,
+  .project-collage .collage-half,
+  .project-collage .collage-large,
+  .project-collage .collage-small,
+  .project-collage .collage-third {
+    grid-column: 1;
+  }
+
+  .project-collage figure {
+    padding: 12px;
+  }
+
+  .collage-caption {
+    width: calc(100vw - 32px);
+  }
 }
