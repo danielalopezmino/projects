@@ -429,3 +429,19 @@ p { margin: 0; }
   .project-embed--pdp iframe {
     height: 700px;
   }
+
+
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.brand-logo-mark {
+  width: 22px;
+  height: 22px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
