@@ -17,7 +17,10 @@ tools: "Escritura y edición"
 
 ## Por la ventana
 
-El ritual de la ropa tendida se repite todos los viernes. 
-Sábanas violetas, toalla verde, camisa azul: los colores del tercero de enfrente auguran un mañana.
-Ocho viernes opacos han acompañado al tendedero vacío. 
-El sol le sigue pegando, los pájaros siguen cantando y todo sigue su curso, salvo la vida de enfrente.
+El ritual de la ropa tendida se repite cada viernes.
+Sábanas violetas, toalla verde, camisa azul: los colores del tercero de enfrente auguraban un mañana.
+
+Hace ocho viernes que el tendedero vacío se mueve solo con el viento.
+Sostiene gotas de lluvia que no se animan a caer.
+El sol le sigue pegando, los pájaros se siguen posando y todo sigue su curso...
+excepto la vida de enfrente.
